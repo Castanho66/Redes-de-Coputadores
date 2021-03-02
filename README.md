@@ -1,3 +1,3 @@
 # Redes-de-Coputadores
 
-Trabalhos realizados dentroda disciplina.
+Trabalhos realizados dentro da disciplina.
